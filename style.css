@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    background: linear-gradient(to right, #3f5efb , #fc466b);
+
+    }
+.flex{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 3rem;
+    margin: 3rem;
+
+}
+h1{
+    padding: 2rem;
+    color: rgba(51, 47, 41, 0.925);
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: .3rem;
+}
+h2{
+    padding: 2rem;
+    color: rgba(51, 47, 41, 0.925);
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    color: rgba(51, 47, 41, 0.925);
+    font-family: 'Courier New', Courier, monospace;
+}
+.color1{
+    margin: 1rem;
+}
